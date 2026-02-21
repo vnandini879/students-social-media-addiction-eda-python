@@ -74,7 +74,7 @@ The dataset used in this project is a cleaned version of the "Student Social Med
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/students-social-media-addiction-eda-python.git
+git clone https://github.com/vnandini879/students-social-media-addiction-eda-python.git
 
 ```
 
